@@ -1,0 +1,49 @@
+HR Analytics Dashboard | Power BI
+
+📌 Project Overview
+
+This project focuses on exploring HR employee information using Microsoft Power BI. It aims to organize employee data and present HR-related information through data visualizations.
+
+🎯 Project Objective
+
+- Explore employee information.
+- Understand employee joining and relieving dates.
+- Organize employee records by department.
+- Present HR data in a visual dashboard.
+
+🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Microsoft Excel
+
+📂 Dataset Description
+
+The project includes an Excel dataset with the following fields:
+
+- Employee_ID
+- Employee_Name
+- Department
+- Joining_Date
+- Relieving_Date
+- HR_Executive
+
+📊 Project Files
+
+File| Description
+HR PROJECT (POWER BI).pbix| Power BI dashboard
+hr_data_for_powerbi.xlsx| Excel dataset
+
+📈 Dashboard
+
+The Power BI report is provided as a ".pbix" file. Open it using Microsoft Power BI Desktop to explore the report.
+
+💡 Skills Demonstrated
+
+- Data visualization
+- HR data analysis
+- Microsoft Excel
+- Power BI reporting
+
+👩‍💻 Author
+
+Created as a data analytics portfolio project.
